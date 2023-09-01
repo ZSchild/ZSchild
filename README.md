@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZSchild
-- 👀 I’m interested in Biology, Geospatial Analysis, Statistics, and Geography
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Gospatial Analysis/Remote Sensing, Biology, Statistical Modeling, Machine Learning, Geography
+- 🌱 I’m currently learning Bayesian Statistics
 - 📫 How to reach me zachary.schild@coyotes.usd.edu
 
 <!---

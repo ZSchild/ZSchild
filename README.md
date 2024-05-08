@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zach Schild! 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>Remote Sensing</b>
   - [Filler](https://github.com/)

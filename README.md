@@ -2,9 +2,8 @@
 
 <h2>Projects:</h2>
 
-- <b>Remote Sensing</b>
-  - [Filler](https://github.com/ZSchild/GIS-Analysis)
-- <b>Geographic Information Systems</b>
+- <b>Remote Sensing/Geographic Infomration Systems</b>
+  - [GIS Analysis](https://github.com/ZSchild/GIS-Analysis)
   - [Filler](https://github.com/) 
 - <b>Data Science/Statistical Analysis</b>
 

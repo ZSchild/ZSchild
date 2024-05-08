@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @ZSchild
-- 👀 I’m interested in Gospatial Analysis/Remote Sensing, Biology, Statistical Modeling, Machine Learning, Geography
-- 🌱 I’m currently learning Bayesian Statistics
-- 📫 How to reach me zachary.schild@coyotes.usd.edu
+<h1>Hi, I'm Zach Schild! 
 
-<!---
-ZSchild/ZSchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Remote Sensing</b>
+  - [Filler](https://github.com/)
+- <b>Geographic Information Systems</b>
+  - [Filler](https://github.com/) 
+- <b>Data Science/Statistical Analysis</b>
+
+
+
+<!--
+**ZSchild/ZSchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

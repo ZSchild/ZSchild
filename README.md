@@ -1,5 +1,7 @@
-<h1>Hi, I'm Zach Schild! <h1>
-<b>I am a Masters student at the University of South Dakota in the Department of Biology working under Dr. Ranjeet John. I have got my bachelors in Biology and Sustainability with an Environmental Science specialization.:</b>
+## Hi, I'm Zach Schild!
+### M.S. Biology University of South Dakota; Bioinformatics Certification
+### B.S. Biology and Sustainability (Environmental Science Specialization); Geospatial Analysis Certification
+
 
 <h2>Projects:</h2>
 

@@ -1,4 +1,4 @@
-## Hi, I'm Zach Schild!
+## Hi, I'm Zach (Zachary) Schild!
 ### M.S. Biology University of South Dakota; Bioinformatics Certification
 ### B.S. Biology and Sustainability (Environmental Science Specialization); Geospatial Analysis Certification
 
